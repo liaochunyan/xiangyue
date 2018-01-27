@@ -1,0 +1,160 @@
+.big-box{
+	width:100%;
+	height: 13.34rem;
+	background-color:#f7f7f7;
+}
+.ding{
+	width:7.5rem;
+	height: 3.85rem;
+}
+.ding img{
+	width:7.5rem;
+	height: 3.84rem;
+}
+.xuanx{
+	width: 100%;
+	height: 1.48rem;
+	margin-top: .25rem;
+	padding:0 .24rem;
+	margin-bottom: 0.25rem;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+	background-color:#fff;
+}
+.kashang{
+	width:.91rem;
+	height:1.24rem;
+	padding-top: .52rem;
+	text-align:center;
+	float:left;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+}
+.shuxian{
+	width:0.02rem;
+	height:0.68rem;
+	float:left;
+	background-color: #d9d8d8;
+}
+.shuzi{
+	font-size: .22rem;
+	color:#302e2d;
+}
+.kashang span:nth-child(2){
+	font-size: .22rem;
+	color:#8e8a88;
+}
+.kashanggai{
+	width:.91rem;
+	height:1.24rem;
+	padding-top:.09rem;
+	padding-bottom: .05rem;
+	text-align:center;
+	float:left;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+    line-height: 0.2rem;
+}
+.xingai{
+	width: 100%;
+	font-size: .22rem;
+	color:#8e8a88;
+}
+.shuzigai{
+	width: 100%;
+	font-size: .22rem;
+	color:#302e2d;
+}
+.wengai{
+	width: 100%;
+	font-size: .22rem;
+	color:#8e8a88;
+}
+.box-2{
+	width: 100%;
+	height: 1.5rem;
+	background-color: #fff;
+	margin-bottom: 0.25rem;
+	padding: 0 .5rem;
+}
+.box-2-1{
+	width: 100%;
+	height: 0.74rem;
+	border-bottom: 0.01rem solid #ccc;
+	line-height: 0.75rem;
+	font-size: 0.26rem;
+	color: #8e8a88;
+}
+.box-2-1 span{
+	float: right;
+	font-size: 0.21rem;
+	color: #ccc;
+}
+.box-2-1-teshu{
+	border: 0;
+	height: 0.75rem;
+}
+.box-3{
+	width: 100%;
+	height: 2.25rem;
+	background-color: #fff;
+	padding: 0 .5rem;
+	margin-bottom: 0.25rem;
+}
+.box-4{
+	width: 100%;
+	height: 0.75rem;
+	background-color: #fff;
+	padding: 0 .5rem;
+}
+.tab1{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color:#333b41;
+	/* position:absolute; */
+	position:fixed;
+	left:0;
+	bottom:0;
+	margin: auto;
+}
+.tab2{
+	width: 1.975rem;
+	height: 1.2rem;
+	background-color:#db2b37;
+	position:fixed;
+	left:1.825rem;
+	bottom:0;
+	margin: auto;
+	z-index: 999;
+	border-top-left-radius:0.1rem;
+	border-top-right-radius:0.1rem;
+}
+.tab3{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color:#333b41;
+	position:fixed;
+	left:3.75rem;
+	bottom:0;
+	margin: auto;
+}
+.tab4{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color:#333b41;
+	position:fixed;
+	left:5.625rem;
+	bottom:0;
+	margin: auto;
+}
+.tu00{
+	width: 1.05rem;
+	height: 1.05rem;
+	margin: 0 auto;
+}
